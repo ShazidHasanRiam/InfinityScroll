@@ -25,6 +25,19 @@ h1 {
     align-items: center;
 }
 
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: 300;
+    /* color: dimgrey; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Loader */
 .loader {
     position: fixed;
